@@ -1,0 +1,2 @@
+Create app file and write code 
+pip install streamlit -- run streamlit run app.py
