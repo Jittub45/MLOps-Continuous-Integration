@@ -1,6 +1,11 @@
-Create app file and write code 
-pip install streamlit -- run streamlit run app.py
+1. Create app file and write code 
+2. pip install streamlit -- run streamlit run app.py
 
-Exploring CI on github
-Create a file ".github/workflows/xyz.yaml"
-Create a _test.py file and add the code for it 
+
+Setting CI on github
+3. Create a file ".github/workflows/xyz.yaml"
+4. Create a _test.py file and add the code for it 
+5. git add., git commit, git push
+
+Exploring CI on github Action
+6. Reop-> Action-> it has all the completed job from CI.yaml file
